@@ -1,8 +1,6 @@
 # Crypto exchange from scratch
 Build your own crypto-exchange from scratch series
 
-All LIVE recordings can be found on this my YouTube channel.
-
 We are building a complete working crypto exchange from a blank page.
 matching engine
 orderbooks
